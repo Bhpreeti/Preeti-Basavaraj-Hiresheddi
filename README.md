@@ -21,4 +21,5 @@ Working on personal and academic projects to improve coding skills
 📫 Let’s Connect
 
 LinkedIn :https://www.linkedin.com/in/preeti-bh-a5993026b
+
 Email:bhpreethi417@gmail.com
