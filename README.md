@@ -1,9 +1,7 @@
 # Hey There! 👋
-# I'm an Aspiring Software Developer passionate about building clean and efficient solutions. 
-I have a strong intrest in Web Development and Data Analytics, and i enjoy learning and applying new technologies.
-
+# I'm an Aspiring Software Developer
 🔹 About Me
-🌱 Currently learning and improving my skills in  HTML, CSS, and JavaScript
+🌱 Currently learning and improving my skills in  HTML, CSS, and JavaScript   
 📊 Exploring Data Analytics using Power BI
 💻 Interested in developing projects that combine web development and data-driven insights
 🚀 Open to collaborating on beginner-friendly projects and internships
